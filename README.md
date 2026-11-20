@@ -1,4 +1,4 @@
-Hi, I’m David 👋. I’m a backend engineer working on weather alerts and maps at AccuWeather for Business. I also built [go-estado-cuenta-mx](https://github.com/DavidSerranoG/go-estado-cuenta-mx), a Go library that turns Mexican bank statement PDFs into structured transactions.
+Hi, I’m David 👋. I’m a software engineer focused on backend systems, data, and infrastructure. I enjoy building tools that solve practical problems and figuring out how to make them reliable and easy to operate.
 
 ## Work
 
